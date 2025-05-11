@@ -12,3 +12,10 @@
 - HTML5
 - CSS3 (com animações e keyframes)
 - JavaScript
+
+## Capturas de tela do site
+- Início
+![image](https://github.com/user-attachments/assets/28b93c01-cc97-4ea2-9d3f-3ae3366c31bb)
+
+- As fotos de gato
+![image](https://github.com/user-attachments/assets/b4efb966-ac59-42e9-b7d1-0d8bd8911c72)
